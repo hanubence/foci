@@ -21,6 +21,6 @@
 [Interactive version](https://embed.deepnote.com/2b023a1e-30da-4350-99df-8286fc144bcb/8e3b20be8c024ac298f0e44828f6c19a/f087c748893346a3bbf458690da2d4f6?height=507)
 
 ![image](https://github.com/hanubence/foci/assets/32911312/d38e8fd7-133f-4429-a697-44abff2a6af3)
-The COVID-19 Pandemic caused attendance to decrease a lot (probably near zero due to averaging)
 
+The COVID-19 Pandemic caused attendance to decrease a lot (probably near zero due to averaging)
 [Interactive version](https://embed.deepnote.com/2b023a1e-30da-4350-99df-8286fc144bcb/8e3b20be8c024ac298f0e44828f6c19a/6d5d574c01564d77bc1f29284fb5a47a?height=550)
