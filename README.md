@@ -24,3 +24,5 @@
 
 The COVID-19 Pandemic caused attendance to decrease a lot (probably near zero due to averaging)
 [Interactive version](https://embed.deepnote.com/2b023a1e-30da-4350-99df-8286fc144bcb/8e3b20be8c024ac298f0e44828f6c19a/6d5d574c01564d77bc1f29284fb5a47a?height=550)
+
+#### [Link to full DeepNote workbook](https://deepnote.com/workspace/foci-98c8-b0fcb992-1465-4b5f-8501-f6c3a51e83a3/project/Foci-2b023a1e-30da-4350-99df-8286fc144bcb/notebook/Notebook%201-8e3b20be8c024ac298f0e44828f6c19a)
